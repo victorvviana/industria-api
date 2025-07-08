@@ -1,4 +1,4 @@
-﻿package maingit initgit
+﻿package main
 
 import "fmt"
 
